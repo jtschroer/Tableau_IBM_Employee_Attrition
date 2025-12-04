@@ -24,7 +24,7 @@ The dashboard uses visual analytics to highlight factors potentially driving att
 
 ### 📁 Repo Files ###
 
-- TBD
+- [WA_Fn-UseC_-HR-Employee-Attrition.csv](https://github.com/jtschroer/Tableau_IBM_Employee_Attrition/blob/main/WA_Fn-UseC_-HR-Employee-Attrition.csv)
 
 ---
 
