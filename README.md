@@ -34,15 +34,14 @@ Date Source: [https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-att
 ### ⚙️ Data Preparation & Transformation (Tableau)
 Data preparation focused on ensuring all metrics are correctly calculated and dimensions are usable for grouping.
 
-* **Handling Categorical Fields:** * **Creating Attrition Flags:** The `Attrition` column (Yes/No) was used directly or converted into a binary (1/0) field to facilitate rate calculations.
-* **Model Optimization:**
+This section in progress - coming soon
 
 ---
 
 ### 🧩 Calculated Fields (Tableau)  
 Click to expand.
 
-This section is in progress.  More coming later.
+This section in progress - coming soon
 
 
 ### 🔍 Key Insights
