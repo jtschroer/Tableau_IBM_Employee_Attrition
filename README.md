@@ -67,4 +67,7 @@ While the visual design intentionally referenced established community patterns 
 
 ### 🖼 Dashboard Preview
 
-**Dashboard Snapshot** <img width="1000" alt="Dashboard Preview" alt="Dashboard Screenshot" src="image_ac6e68.jpg" />
+**Dashboard Snapshot**
+![tableau_p01](https://github.com/user-attachments/assets/b5bb75e6-745a-43bc-bb47-e0016f2d2f68)
+
+
